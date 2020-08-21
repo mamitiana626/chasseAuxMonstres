@@ -8,7 +8,8 @@ Le but du programme est de chasser les monstre avec l' API **dofapi.fr**
 
  1. Cloner le mini-projet (git clone https://github.com/mamitiana626/chasseAuxMonstres)
  2. Entrer dans la repertoire du mini-projet (chasseAuxMonstres)
- 3. Lancer le terminal et executer la commande suivante "ruby app.rb"
+ 3. lancer la commande **bundle install**
+ 4. Lancer le terminal et executer la commande suivante "ruby app.rb"
 
 Pandant le lancement du programme vous allez recevoir des messages dans le terminal concernant les donnée des monstres récupéré.
 
