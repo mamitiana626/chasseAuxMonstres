@@ -12,7 +12,7 @@ Le but du programme est de chasser les monstre avec l' API **dofapi.fr**
 
 Pandant le lancement du programme vous allez recevoir des messages dans le terminal concernant les donnée des monstres récupéré.
 
-A la fin du programme vous les fichier suivants seront crée dans le répertoire **db**
+A la fin du programme les fichier suivants seront crée dans le répertoire **db**
  1. monstre_larve.json
  2. monstre_caverne.json
  3. monstre_plaine_herbeuse.json
